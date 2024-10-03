@@ -19,7 +19,7 @@ def get_people():
         if person["job"]["workplace"] == "northcoders":
             results.append(person)
             
-    with open("northcoders.json", "w") as f:
-        f.write(json.dumps(results, indent=4))
+    with open("task_1/northcoders.json", "w") as f:
+        json.dump(results, f, indent=4)
 
 # get_people()
