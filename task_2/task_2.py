@@ -25,6 +25,6 @@ def get_interests():
         results.append(formatted_response["person"])
 
     with open("task_2/interests.json", "w") as f:
-        f.write(json.dumps(results, indent=4))
+        json.dump(results, f, indent=4)
 
 # get_interests()
