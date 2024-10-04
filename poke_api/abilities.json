@@ -1,0 +1,189 @@
+[
+    {
+        "bulbasaur": [
+            "overgrow",
+            "chlorophyll"
+        ]
+    },
+    {
+        "ivysaur": [
+            "overgrow",
+            "chlorophyll"
+        ]
+    },
+    {
+        "venusaur": [
+            "overgrow",
+            "chlorophyll"
+        ]
+    },
+    {
+        "charmander": [
+            "blaze",
+            "solar-power"
+        ]
+    },
+    {
+        "charmeleon": [
+            "blaze",
+            "solar-power"
+        ]
+    },
+    {
+        "charizard": [
+            "blaze",
+            "solar-power"
+        ]
+    },
+    {
+        "squirtle": [
+            "torrent",
+            "rain-dish"
+        ]
+    },
+    {
+        "wartortle": [
+            "torrent",
+            "rain-dish"
+        ]
+    },
+    {
+        "blastoise": [
+            "torrent",
+            "rain-dish"
+        ]
+    },
+    {
+        "caterpie": [
+            "shield-dust",
+            "run-away"
+        ]
+    },
+    {
+        "metapod": [
+            "shed-skin"
+        ]
+    },
+    {
+        "butterfree": [
+            "compound-eyes",
+            "tinted-lens"
+        ]
+    },
+    {
+        "weedle": [
+            "shield-dust",
+            "run-away"
+        ]
+    },
+    {
+        "kakuna": [
+            "shed-skin"
+        ]
+    },
+    {
+        "beedrill": [
+            "swarm",
+            "sniper"
+        ]
+    },
+    {
+        "pidgey": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ]
+    },
+    {
+        "pidgeotto": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ]
+    },
+    {
+        "pidgeot": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ]
+    },
+    {
+        "rattata": [
+            "run-away",
+            "guts",
+            "hustle"
+        ]
+    },
+    {
+        "raticate": [
+            "run-away",
+            "guts",
+            "hustle"
+        ]
+    },
+    {
+        "spearow": [
+            "keen-eye",
+            "sniper"
+        ]
+    },
+    {
+        "fearow": [
+            "keen-eye",
+            "sniper"
+        ]
+    },
+    {
+        "ekans": [
+            "intimidate",
+            "shed-skin",
+            "unnerve"
+        ]
+    },
+    {
+        "arbok": [
+            "intimidate",
+            "shed-skin",
+            "unnerve"
+        ]
+    },
+    {
+        "pikachu": [
+            "static",
+            "lightning-rod"
+        ]
+    },
+    {
+        "raichu": [
+            "static",
+            "lightning-rod"
+        ]
+    },
+    {
+        "sandshrew": [
+            "sand-veil",
+            "sand-rush"
+        ]
+    },
+    {
+        "sandslash": [
+            "sand-veil",
+            "sand-rush"
+        ]
+    },
+    {
+        "nidoran-f": [
+            "poison-point",
+            "rivalry",
+            "hustle"
+        ]
+    },
+    {
+        "nidorina": [
+            "poison-point",
+            "rivalry",
+            "hustle"
+        ]
+    }
+]
